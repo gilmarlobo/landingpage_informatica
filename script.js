@@ -1,4 +1,4 @@
-const WHATSAPP_PHONE = '5598981118527';
+const WHATSAPP_PHONE = '5598991068214';
 
 document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('[data-whatsapp-message]').forEach(function (link) {
